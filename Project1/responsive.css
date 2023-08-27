@@ -90,4 +90,8 @@
     section.hero_area div.text a{
         display: block;
     }
+
+    section.hero_area{
+    justify-content: center;
+    }
 }
